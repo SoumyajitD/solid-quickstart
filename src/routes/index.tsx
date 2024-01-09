@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Title>Hello World</Title>
-      <h1>Tanmoy is a fuck boy!</h1>
+      <h1>Welcome to Aukstem! Please Contact for support</h1>
       <Counter />
       <p>
         Visit{" "}
